@@ -10,7 +10,8 @@ Những thông tin dưới đây là trải nghiệm cá nhân để tham khảo
   + Số tiền sẽ được đề cập chi tiết khi bạn nhận thông tin về chương trình.
   + Sẽ được gửi vào tài khoản nhận lương của bạn 3 lần:
     + Vài ngày sau khi nhập cảnh US.
-    + 2 lần sau sẽ gửi vào tháng cuối cùng (vì vậy nên tiết kiệm một chút vì nếu hết thì xài tiền của chính mình, nhưng cũng k dễ gì hết được).
+    + Lần tiếp theo thường sẽ gửi vào tháng cuối cùng (vì vậy nên tiết kiệm một chút vì nếu hết thì xài tiền của chính mình, nhưng cũng k dễ gì hết được).
+    + Lần cuối cùng thường sẽ gửi sau khi bạn về Việt Nam vì lí do k đủ thời gian một tháng tại Mỹ.
   + Nên nấu ăn để tiết kiệm tiền phục vụ việc khác (mua sắm, du lịch, ...).
   + Tất cả những giá tiền bạn thấy đều không phải số tiền bạn phải trả, sẽ phải có thuế (đa phần sẽ là 8%) và một số địa điểm cần phải tips.
 - Nhập cảnh:
