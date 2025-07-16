@@ -32,15 +32,19 @@ Những thông tin dưới đây là trải nghiệm cá nhân để tham khảo
   + Hãy liên lạc với team VN tại US(nếu có) khi bạn đến nơi để được hỗ trợ nếu cần.
   + Tài khoản Uber có thể share, hãy tải Uber trước ở Việt Nam và hoàn thành cài đặt. Liên hệ team VN tại US để share tài khoản nếu cần, tránh gián đoạn trong việc di chuyển.
   + Nên cài đặt roaming data cho những ngày đầu ở Mỹ.
+- Làm việc tại US:
+  + Jeff sẽ send board tracking ticket, việc của bạn là help support những ticket raise high hoặc highest, nếu k có thì pick ticket nào để support cũng được.
+  + Thời gian làm việc: nên làm việc theo giờ Việt Nam, 9am-5pm. Nếu có việc k lên văn phòng được thì báo Jeff.
 - Cẩm nang du lịch
   + Vé máy bay:
     + Xem ở đây để so sánh giá giữa các hãng ([here](https://www.google.com/travel/flights?gl=US&hl=en-US)).
-    + Những hãng máy bay giá rẻ: Spirit(thường sẽ có delay nếu chuyến bay có stop), Frontier(giá tốt và dịch vụ tốt).
+    + Những hãng máy bay giá rẻ: Spirit, Frontier.
+    + Ở Mỹ cũng sẽ có delay chuyến bay như Việt Nam, nhiều khi là tới nữa ngày. VÌ vậy đừng chọn bay có stop nếu có thể.
     + Khi đặt vé máy bay nên kiểm tra cả vé khứ hồi và một chiều (thường thì một chiều sẽ rẻ hơn).
   + Đặt phòng khách sạn:
     + Nên tìm kiếm những địa điểm nên/không nên lưu trú tại Mỹ trước khi đặt phòng khách sạn vì có nhiều khu vực có người vô gia cư không an toàn.
     + Đa số phòng giá rẻ sẽ là phòng dorm, không khuyến khich ở những phòng dạng này.
-    + Một số khách sạn giá rẻ sẽ có phòng vệ sinh chung nhưng đừng lo vì rất sạch sẽ (hoặc mình chưa gặp).
+    + Một số khách sạn giá rẻ sẽ có phòng vệ sinh chung, có nơi thì sạch có nơi thì k sạch lắm.
   + Phòng tránh bị lừa đảo:
     + Tại các thành phố lớn, khi đi dạo trên đường phố đôi lúc sẽ gặp những người tỏ ra thân thiện tặng quà, mời chụp hình, mời nge nhạc, ... Hãy cảnh giác vì có thể sẽ mất tiền, tốt nhất nên làm ngơ đi. Người Mỹ còn sợ điều này nên đừng chủ quan.
 - SOS (Hộ chiếu/Visa/Đau ốm):
@@ -49,3 +53,5 @@ Những thông tin dưới đây là trải nghiệm cá nhân để tham khảo
     + Hãy gửi email đến embassy.eservices@gmail.com khi email trên không hoạt động, chỉ cần cung cấp đầy đủ giấy tờ sẽ nhanh chóng có hộ chiếu mới. Giá phí 290$ (nhớ giữ cẩn thận chứ mất thì đau ví lắm).
   + Trường hợp đau ốm:
     + Mình chưa trải nghiệm bộ môn này nhưng nếu có vấn đề gì, hãy liên hệ Jeffrey Ivy hoặc Shelby Meek để được hỗ trợ.
+
+Trên đây là tất cả những trải nghiệm các nhân mình muốn chia sẻ đến mọi người. Nếu có thêm thắc mắc gì vui lòng hỏi team HR hoặc những bạn đã từng đi onsite để biết thêm thông tin. Have good time in US.
